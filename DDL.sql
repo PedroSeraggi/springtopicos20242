@@ -1,3 +1,4 @@
+-- Active: 1728152206849@@localhost@3306@spring
 drop schema if exists spring;
 drop user if exists 'user'@'localhost';
 
